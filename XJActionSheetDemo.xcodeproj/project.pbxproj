@@ -230,7 +230,7 @@
 				TargetAttributes = {
 					CDDAA86C1D24C5D300008969 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 9562XGL6FJ;
+						DevelopmentTeam = E359X2HC27;
 					};
 					CDDAA8851D24C5D400008969 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -444,6 +444,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E359X2HC27;
 				INFOPLIST_FILE = XJActionSheetDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lxj.XJActionSheetDemo;
@@ -455,6 +456,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = E359X2HC27;
 				INFOPLIST_FILE = XJActionSheetDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lxj.XJActionSheetDemo;
@@ -527,6 +529,7 @@
 				CDDAA89C1D24C5D400008969 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CDDAA89D1D24C5D400008969 /* Build configuration list for PBXNativeTarget "XJActionSheetDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -535,6 +538,7 @@
 				CDDAA89F1D24C5D400008969 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CDDAA8A01D24C5D400008969 /* Build configuration list for PBXNativeTarget "XJActionSheetDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -543,6 +547,7 @@
 				CDDAA8A21D24C5D400008969 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
