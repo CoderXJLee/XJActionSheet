@@ -7,7 +7,7 @@ s.license      = 'MIT'
 s.authors      = {'lxj' => '452521617@qq.com'}
 s.platform     = :ios, '8.0'
 s.source       = {:git => 'https://github.com/CoderXJLee/XJActionSheet.git', :tag => s.version}
-s.source_files = 'XJActionSheet/*.{h,m}'
+s.source_files = 'XJActionSheetDemo/XJActionSheet/XJActionSheet.{h,m}'
 #s.resource     = 'MJRefresh/MJRefresh.bundle'
 s.requires_arc = true
 end
